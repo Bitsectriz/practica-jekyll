@@ -1,3 +1,6 @@
+url: "https://bitsectriz.github.io"
+baseurl: "/practica-jekyll"
+
 collections:
   authors:
     output: true
