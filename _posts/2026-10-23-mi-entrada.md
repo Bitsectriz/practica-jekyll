@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mi experiencia con Jekyll"
-author: ted
+author: Bea
 ---
 
 ## Mi primera web estática
